@@ -88,14 +88,14 @@
     [
         "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9592,
-            "modifiedTime": 1538534714457,
-            "changeTime": 1538534714457,
-            "contentHash": "d12f6856913527a34d5dd9c4c8f9a2a82fa00dda",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 8375,
+            "modifiedTime": 1538539522598,
+            "changeTime": 1538539522598,
+            "contentHash": "6057022507e1abf33a17e9af2223938c981b16eb"
         }
     ],
     [
@@ -114,27 +114,27 @@
     [
         "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 18012,
-            "modifiedTime": 1538534714483,
-            "changeTime": 1538534714483,
-            "contentHash": "e781fcfc9530b3c099438d28f63ecd996e075e73",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 18187,
+            "modifiedTime": 1538539522646,
+            "changeTime": 1538539522646,
+            "contentHash": "337dec8bd9b373b361de029fe8c6b577d165fada"
         }
     ],
     [
         "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1538534714441,
-            "changeTime": 1538534714441,
-            "contentHash": "028d3424ad8db63573f34c5a8cd5436502346797",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1538539522573,
+            "changeTime": 1538539522573,
+            "contentHash": "544de5d4fd14f685ca6c9a8071e01595819fc013"
         }
     ],
     [
@@ -205,14 +205,14 @@
     [
         "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 436,
             "modifiedTime": 1538535473204,
             "changeTime": 1538535473204,
-            "contentHash": "1fc287e41c8f59c1e4c386a8e20afe767b116887"
+            "contentHash": "1fc287e41c8f59c1e4c386a8e20afe767b116887",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -226,6 +226,19 @@
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields\\InternalRiskDisplayField__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields\\InternalRiskDisplayField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 547,
+            "modifiedTime": 1538539522575,
+            "changeTime": 1538539522575,
+            "contentHash": "d1f06f943095bdc75d7d6556b7ca7fb359152766"
         }
     ]
 ]
