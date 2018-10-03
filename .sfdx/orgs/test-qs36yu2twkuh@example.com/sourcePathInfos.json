@@ -1,0 +1,231 @@
+[
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538532843482,
+            "changeTime": 1538532843482,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538532843482,
+            "changeTime": 1538532843482,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534714475,
+            "changeTime": 1538534714475,
+            "contentHash": "deec989a8e2cfc06774d4518fc16d480a2a0be5f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538532843482,
+            "changeTime": 1538532843482,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534589748,
+            "changeTime": 1538534589748,
+            "contentHash": "e063e22e37f636034b837b1baeaddf79579e689f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields\\InternalRiskRating__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields\\InternalRiskRating__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 981,
+            "modifiedTime": 1538534714444,
+            "changeTime": 1538534714444,
+            "contentHash": "bde7fb09c49fb2fb958cf788ba87db279b83e394",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9592,
+            "modifiedTime": 1538534714457,
+            "changeTime": 1538534714457,
+            "contentHash": "d12f6856913527a34d5dd9c4c8f9a2a82fa00dda",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\workflows\\Account.workflow-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\workflows\\Account.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 990,
+            "modifiedTime": 1538534714461,
+            "changeTime": 1538534714461,
+            "contentHash": "839537c1584aec10ade230d5ddf971b067f9e290",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18012,
+            "modifiedTime": 1538534714483,
+            "changeTime": 1538534714483,
+            "contentHash": "e781fcfc9530b3c099438d28f63ecd996e075e73",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534714441,
+            "changeTime": 1538534714441,
+            "contentHash": "028d3424ad8db63573f34c5a8cd5436502346797",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534990255,
+            "changeTime": 1538534990255,
+            "contentHash": "90af1088d8c7cad30c6182b4ec88927b7bcd5001",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534714440,
+            "changeTime": 1538534714440,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534714454,
+            "changeTime": 1538534714454,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\workflows",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\workflows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534714460,
+            "changeTime": 1538534714460,
+            "contentHash": "7fb00a023b87cf19671452bb28b7c7d588d2f173",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534714481,
+            "changeTime": 1538534714481,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 436,
+            "modifiedTime": 1538535473204,
+            "changeTime": 1538535473204,
+            "contentHash": "1fc287e41c8f59c1e4c386a8e20afe767b116887"
+        }
+    ],
+    [
+        "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\listViews",
+        {
+            "sourcePath": "C:\\Users\\Jacob\\Documents\\my_sfdx_project\\learning-projects\\workflow-fls\\force-app\\main\\default\\objects\\Account\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538534990257,
+            "changeTime": 1538534990257,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
