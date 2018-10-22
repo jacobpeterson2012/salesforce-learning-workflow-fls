@@ -1,4 +1,5 @@
-# SFDX  App
+# SFDX  App Description
+This sample snippit can be used to demostrate if worflow security and formula fields enforce field level security. 
 
 ## Dev, Build and Test
 
